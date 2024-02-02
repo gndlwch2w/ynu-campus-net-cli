@@ -1,0 +1,22 @@
+{
+  "user": {
+    "username": "1202321xxxx",
+    "password": "xxx12345"
+  },
+  "device": {
+    "ethernet": "Wireless LAN adapter WLAN",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "api": {
+    "authenticate": "http://202.203.208.5/cgi-bin/srun_portal",
+    "challenge": "http://202.203.208.5/cgi-bin/get_challenge"
+  },
+  "constant": {
+    "type": "1",
+    "n": "200",
+    "enc": "srun_bx1",
+    "ac_id": "0",
+    "domain": "",
+    "alpha": "LVoJPiCN2R8G90yg+hmFHuacZ1OWMnrsSTXkYpUq/3dlbfKwv6xztjI7DeBE45QA"
+  }
+}
